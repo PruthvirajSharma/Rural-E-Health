@@ -1,0 +1,2 @@
+# Rural-E-Health
+Rural E-Health using Advance Java (JSP, Servlet). Simple Aarogya Setu Website which contains Admin Login, Aarogya Login &amp; Doctor Login. Aarogya can add case to the doctor based on the symptoms the Doctor gets auto-assigned. Both Aarogya &amp; Doctor can comment on the case of the patient. The Admin is going to add, view &amp; delete Aarogyas &amp; Doctors. Aarogya and Doctor can add, view &amp; delete the case of their respective patients.
